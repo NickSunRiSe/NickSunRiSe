@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NickSunRiSe / Nick Sunrise
 - 👀 I’m interested in games, music and theatre
-- 🌱 I’m currently learning css, js, html and ReactJS
+- 🌱 I’m currently learning css, js, html, ReactJS+Redux and GOlang
 - 💞️ I’m looking to collaborate on with i am
 - 📫 How to reach me there and twitter @nicksunris
 
