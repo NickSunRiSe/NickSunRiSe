@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickSunRiSe / Nick Sunrise
+- 👋 Hi, I’m @NickSunRiSe / Nick Belov
 - 👀 I’m interested in games, music and theatre
 - 🌱 I’m currently learning css, js, html, ReactJS+Redux and GOlang
 - 💞️ I’m looking to collaborate on with i am
