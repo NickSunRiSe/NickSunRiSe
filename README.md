@@ -17,3 +17,4 @@
 - as well as everything that I did before, if it is not under the NDA
 - The second is responsible for my completed projects, which I am ready to show people.
 - You can contact me by mail NickBelovWork@gmail.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksunrise)](https://github.com/anuraghazra/github-readme-stats)
